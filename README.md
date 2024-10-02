@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/oriol-mascar%C3%B3-padr%C3%B3s-1ba36791/)">
+  <a href="https://www.linkedin.com/in/oriol-mascar%C3%B3-padr%C3%B3s-1ba36791/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
