@@ -1,10 +1,10 @@
-## Hayo! ✨
+# Hayo! ✨
+## About me
 I'm a backend developer from Spain
 During my free time I love Game Developing, and currently going back and forward with projects like:
-+ ⚡ A City simulation game (Unity)
-+ 🛰️ A Star Fox alike project (Godot)
-+ 🥕 An Overcooked ripoff (Unity)
-🦊🚀🍄🏙️🎖️
++ ⚡ [A City simulation game](https://github.com/Uriyeah55/City-Simulator) (Unity)
++ 🛰️ [A Star Fox alike project](https://github.com/Uriyeah55/FoxStar) (Godot)
++ 🥕 [An Overcooked ripoff](https://github.com/Uriyeah55/Overcooked) (Unity)
 
 I also joined 3 game jams this summer, and plan to fix and update said projects. Those are:
 
@@ -13,13 +13,20 @@ I also joined 3 game jams this summer, and plan to fix and update said projects.
 Project: [A New Journey](https://github.com/Uriyeah55/ANewJourney)
 
 First Jam ever, bottom ladder but a good warmup experience.
+
 [Scream Secrets game jam 2024](https://itch.io/jam/scream-secrets)
+
 Project: [The Bone Zone](https://github.com/Uriyeah55/TheBoneZone) 
 
 Was more creative and productive here, the game scored #16 position on the creativity label 🏅
-Can be checked [here](https://itch.io/jam/scream-secrets/results/creativity).
 
+Results can be checked [here](https://itch.io/jam/scream-secrets/results/creativity).
 
+[Magical Girl Game Jam #10](https://itch.io/jam/magical-girl-game-jam-10)
+
+Project: [Meat your destiny](https://pinksamurai.itch.io/meat-your-destiny-lettys-pandemonium)
+Pending of results!
+## Socials
 You can find me on LinkedIn
 <div id="badges">
   <a href="https://www.linkedin.com/in/oriol-mascar%C3%B3-padr%C3%B3s-1ba36791/)">
