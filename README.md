@@ -34,6 +34,7 @@ You can find me on LinkedIn
   </a>
   </div>
   And on Youtube, where sometimes I share footage of my projects:
+  
   <div>
   <a href="https://www.youtube.com/@AnimaticWave/videos">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
