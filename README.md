@@ -1,12 +1,24 @@
-## Hayo!
+## Hayo! ✨
 I'm a backend developer from Spain
 During my free time I love Game Developing, and currently going back and forward with projects like:
-+ ⚡ A City simulation game
++ ⚡ A City simulation game (Unity)
++ 🛰️ A Star Fox alike project (Godot)
++ 🥕 An Overcooked ripoff (Unity)
+🦊🚀🍄🏙️🎖️
 
 I also joined 3 game jams this summer, and plan to fix and update said projects. Those are:
-A New Journey
+
+[Game Maker's ToolKit Game Jam 2024](https://itch.io/jam/gmtk-2024)
+
+Project: [A New Journey](https://github.com/Uriyeah55/ANewJourney)
+
 First Jam ever, bottom ladder but a good warmup experience.
-The Bone Zone
+[Scream Secrets game jam 2024](https://itch.io/jam/scream-secrets)
+Project: [The Bone Zone](https://github.com/Uriyeah55/TheBoneZone) 
+
+Was more creative and productive here, the game scored #16 position on the creativity label 🏅
+Can be checked [here](https://itch.io/jam/scream-secrets/results/creativity).
+
 
 You can find me on LinkedIn
 <div id="badges">
@@ -14,8 +26,8 @@ You can find me on LinkedIn
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
+  And on Youtube, where sometimes I share footage of my projects:
   <div>
-  And Youtube, where sometimes I share footage of projects:
   <a href="https://www.youtube.com/@AnimaticWave/videos">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
