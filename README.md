@@ -11,8 +11,6 @@ I also joined 3 game jams this summer, and plan to fix and update said projects.
 
 Project: [A New Journey](https://github.com/Uriyeah55/ANewJourney)
 
-First Jam ever, bottom ladder but a good warmup experience.
-
 [Scream Secrets game jam 2024](https://itch.io/jam/scream-secrets)
 
 Project: [The Bone Zone](https://github.com/Uriyeah55/TheBoneZone) 
@@ -24,7 +22,7 @@ Results can be checked [here](https://itch.io/jam/scream-secrets/results/creativ
 [Magical Girl Game Jam #10](https://itch.io/jam/magical-girl-game-jam-10)
 
 Project: [Meat your destiny](https://pinksamurai.itch.io/meat-your-destiny-lettys-pandemonium)
-Pending of results!
+
 ## Socials
 You can find me on LinkedIn
 <div id="badges">
